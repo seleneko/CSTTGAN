@@ -1,0 +1,1 @@
+clear && python3 ./src/main.py fit --config ./config/config.yaml
